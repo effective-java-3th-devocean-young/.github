@@ -37,9 +37,9 @@ Code Base로 관리된 문서는 GitHub Page에 자동으로 배포 될 수 있�
 > 
 |🎙️ **김경환 [Justin]**|😀 **이승연 [Mia]**|😀 **송가현 [Song]**|🐰 **조자영 [Jordy]**|😃 **한상호 [Thompson]**|
 |-----------------------|-------------------|--------------------|----------------------|-----------------------|
-|![kyounghwan.jpg](./assets/kyounghwan.jpg)||🚧|![gahyeon.jpg](./assets/gahyeon.png)|![jayoung.jpeg](./assets/jayoung.jpeg)|![sangho.jpeg](./assets/sangho.jpeg)|
-|- Study Leader✨</b>- Github Publisher |- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|
-|    |
+|![kyounghwan.jpg](./assets/kyounghwan.jpg)|🚧|![gahyeon.jpg](./assets/gahyeon.png)|![jayoung.jpeg](./assets/jayoung.jpeg)|![sangho.jpeg](./assets/sangho.jpeg)|
+|- Study Leader✨</b> - Github Publisher |- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|
+
 
 ### Profile
 
