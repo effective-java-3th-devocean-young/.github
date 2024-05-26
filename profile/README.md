@@ -11,13 +11,11 @@
 
 **Effective Java 3rd Edition**
 
-![Untitled](Effective%20Java%20Study%20f97925da606d457d866d20c2b64e01fe/Untitled.png)
+![Untitled](./assets/bookcover.png)
 
 ### 📅 Study 일정
 
 2주에 한번 Offline Meet UP (시험 기간에는 온라인 진행)
-
-[Effective Java Study Calender](Effective%20Java%20Study%20f97925da606d457d866d20c2b64e01fe/Effective%20Java%20Study%20Calender%201a4ac954e55d4b4cba92a29276a41a08.csv)
 
 ### 🙌 Study 방법
 
@@ -29,34 +27,19 @@ Meet Up 때는 각 Chapter의 Item을 5개의 Part로 나누어 랜덤 발표 �
 
 Code Base로 관리된 문서는 GitHub Page에 자동으로 배포 될 수 있도록 DevOps 작업 진행.
 
-## GitHub **Organization**
-
-[Effective Java Study](https://github.com/effective-java-3th-devocean-young)
-
 ## Published Page [TO-DO]
 
 [Repository Quick Start template](https://effective-java-3th-devocean-young.github.io/)
-
-## 회의록
-
-[5/26 Kick Off](https://www.notion.so/5-26-Kick-Off-3b5a13d88e474d0da5cb702636eb18a2?pvs=21)
 
 # 🤝 Member
 
 > **우리의 목표 : Java를 잡아먹자. 🍓**
 > 
-
-<aside>
-🎙️ **김경환 [Justin]**
-
-</aside>
-
-![joy24286sss증명 (1).jpg](Effective%20Java%20Study%20f97925da606d457d866d20c2b64e01fe/joy24286sss%25EC%25A6%259D%25EB%25AA%2585_(1).jpg)
-
-### R&R
-
-- Study Leader✨
-- Github Publisher
+|🎙️ **김경환 [Justin]**|😀 **이승연 [Mia]**|😀 **송가현 [Song]**|🐰 **조자영 [Jordy]**|😃 **한상호 [Thompson]**|
+|-----------------------|-------------------|--------------------|----------------------|-----------------------|
+|![kyounghwan.jpg](./assets/kyounghwan.jpg)||🚧|![gahyeon.jpg](./assets/gahyeon.png)|![jayoung.jpeg](./assets/jayoung.jpeg)|![sangho.jpeg](./assets/sangho.jpeg)|
+|- Study Leader✨</b>- Github Publisher |- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|
+|    |
 
 ### Profile
 
