@@ -11,7 +11,7 @@
 
 **Effective Java 3rd Edition**
 
-![Untitled](./assets/bookcover.png)
+![Untitled](https://raw.githubusercontent.com/effective-java-3th-devocean-young/.github/main/profile/assets/bookcover.png)
 
 ### 📅 Study 일정
 
