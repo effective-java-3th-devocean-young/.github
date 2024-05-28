@@ -1,9 +1,9 @@
 # Effective Java Study
 
-<aside>
 💡 DEVOCEAN YOUNG 3기 Effective Java Study
 
-</aside>
+# Study 기간
+## 2024. 05 ~ 2024. 11
 
 # Study Rules
 
@@ -27,111 +27,21 @@ Meet Up 때는 각 Chapter의 Item을 5개의 Part로 나누어 랜덤 발표 �
 
 Code Base로 관리된 문서는 GitHub Page에 자동으로 배포 될 수 있도록 DevOps 작업 진행.
 
-## Published Page [TO-DO]
-
-[Repository Quick Start template](https://effective-java-3th-devocean-young.github.io/)
-
 # 🤝 Member
 
 > **우리의 목표 : Java를 잡아먹자. 🍓**
 > 
 |🎙️ **김경환 [Justin]**|😀 **이승연 [Mia]**|😀 **송가현 [Song]**|🐰 **조자영 [Jordy]**|😃 **한상호 [Thompson]**|
 |-----------------------|-------------------|--------------------|----------------------|-----------------------|
-|![kyounghwan.jpg](./assets/kyounghwan.jpg)|🚧|![gahyeon.jpg](./assets/gahyeon.png)|![jayoung.jpeg](./assets/jayoung.jpeg)|![sangho.jpeg](./assets/sangho.jpeg)|
-|- Study Leader✨</b> - Github Publisher |- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|
+|<img src="./assets/kyounghwan.jpg" width="400">|<img src="./assets/.." width="400">|<img src="./assets/gahyeon.png" width="400">|<img src="./assets/jayoung.jpeg" width="400">|<img src="./assets/sangho.jpeg" width="400">|
+|- Study Leader✨</br> - Github Publisher |- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|- Study Member 🔥|
+|<b>Profile</b> </br> - 00’s </br> - ENTJ 😎 </br> - [GitHub](https://github.com/KyongHwan-Kim)|<b>Profile</b> </br> - 00’s </br> - ISTJ </br> - [GitHub](https://github.com/tmddus2)|<b>Profile</b> </br> - 02’s 막내 </br> - INTJ </br> - [GitHub](https://github.com/SongGaHyeon)|<b>Profile</b></br>- 00’s</br>- ENTJ</br>- [GitHub](https://github.com/cho-ja-young)|<b>Profile</b> </br>- 00’s</br>- ENTJ</br>- [GitHub](https://github.com/bbbang105)|
+|<b>Career</b> </br> - [LinkedIn](https://www.linkedin.com/in/kyounghwan-kim-kr1/)|🚧|<b>Career</b> </br>- [LinkedIn](https://www.linkedin.com/in/gahyeon-song-98243a63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)|🚧|<b>Career</b> </br> - Backend Developer|
 
 
-### Profile
 
-- 00’s
-- ENTJ 😎
-- [GitHub](https://github.com/KyongHwan-Kim)
 
-### Career
 
-- [LinkedIn](https://www.linkedin.com/in/kyounghwan-kim-kr1/)
-
-<aside>
-😀 **이승연 [Mia]**
-
-</aside>
-
-### R&R
-
-- Study Member 🔥
-
-### Profile
-
-- 00’s
-- ISTJ
-- [GitHub](https://github.com/tmddus2)
-
-### Career
-
-- 
-
-<aside>
-😀 **송가현 [Song]**
-
-</aside>
-
-![스크린샷 2024-02-19 오후 2.03.25.jpg](Effective%20Java%20Study%20f97925da606d457d866d20c2b64e01fe/f05a3aec-ded1-4102-8682-901bdffb44aa.png)
-
-### R&R
-
-- Study Member 🔥
-
-### Profile
-
-- 02’s 막내
-- INTJ
-- [GitHub](https://github.com/SongGaHyeon)
-
-### Career
-
-- [LinkedIn](https://www.linkedin.com/in/gahyeon-song-98243a63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-<aside>
-🐰 **조자영 [Jordy]**
-
-</aside>
-
-![여권사진.jpeg](Effective%20Java%20Study%20f97925da606d457d866d20c2b64e01fe/%25E1%2584%258B%25E1%2585%25A7%25E1%2584%2580%25E1%2585%25AF%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A1%25E1%2584%258C%25E1%2585%25B5%25E1%2586%25AB.jpeg)
-
-### R&R
-
-- Study Member 🔥
-
-### Profile
-
-- 00’s
-- ENTJ
-- [GitHub](https://github.com/cho-ja-young)
-
-### Career
-
-- 
-
-<aside>
-😃 **한상호 [Thompson]**
-
-</aside>
-
-![Untitled](Effective%20Java%20Study%20f97925da606d457d866d20c2b64e01fe/Untitled.jpeg)
-
-### R&R
-
-- Study Member 🔥
-
-### Profile
-
-- 00’s
-- ENTJ
-- [GitHub](https://github.com/bbbang105)
-
-### Career
-
-- Backend Developer
 <!--
 
 **Here are some ideas to get you started:**
